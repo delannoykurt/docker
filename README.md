@@ -40,3 +40,5 @@ Docker Engine est une technologie de conteneurisation open source pour créer et
 # Qu'est-ce que docker compose ?
 Docker Compose : outil pour définir et exécuter des applications à l'aide de plusieurs conteneurs Docker.
 Docker Compose est un outil qui vous permet de définir et d'exécuter plusieurs conteneurs Docker en même temps. Vous pouvez utiliser Docker Compose pour définir les conteneurs de votre application dans un fichier docker-compose.yml, puis utiliser une seule commande pour créer et démarrer tous les conteneurs en même temps. Cela peut être utile lorsque vous avez une application qui utilise plusieurs conteneurs, comme un conteneur de base de données et un conteneur d'application web, par exemple. Vous pouvez utiliser Docker Compose pour facilement gérer l'ensemble de votre application dans un seul endroit.
+![](https://www.alsacreations.com/xmedia/doc/original/1636913240-docker-compose-archi.png)
+
